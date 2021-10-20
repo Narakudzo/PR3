@@ -20,3 +20,4 @@ if __name__ == "__main__":
     u.test_work_distribution_of_leaflets()
     u2 = Test()
     u2.test_work_programming()
+ 
